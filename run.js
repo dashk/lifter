@@ -2,6 +2,6 @@
  * Lifter Runner
  */
 
-var Building = require('./sln/building');
+var Building = require('building');
 var instance = Building.create();
 instance.nextState();
