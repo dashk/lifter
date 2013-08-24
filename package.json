@@ -1,6 +1,6 @@
 {
   "name": "lifter",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "Lifter",
   "keywords": [],
   "repository": {
@@ -20,6 +20,6 @@
     "url": "http://www.opensource.org/licenses/MIT" 
   } ],
   "dependencies": {
-    "underscore": "1.x.x"
+    "underscore": "1.5.1"
   }
 }
